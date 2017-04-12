@@ -4,7 +4,9 @@ Scalable RESTFul API design with Falcon and PyPy
 Running:
 
 `$ virtualenv .venv`
+
 `$ source .venv/bin/activate`
+
 `(.venv)$ pip install -r requirements.txt`
 
 Then serve app using gunicorn
